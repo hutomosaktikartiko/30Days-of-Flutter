@@ -1,4 +1,4 @@
-<h1 align="center">30Days of Fluttern</h1>
+<h1 align="center">30Days of Flutter</h1>
 <div align="center">  
 <a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/stargazers"><img src="https://img.shields.io/github/stars/hutomosaktikartiko/30Days-of-Flutter?style=flat"/></a>
 <a href="https://github.com/hutomosaktikartiko/flutter-awesome-animation/network/members"><img src="https://img.shields.io/github/forks/hutomosaktikartiko/30Days-of-Flutter?style=flat"/></a>

@@ -17,16 +17,16 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 
 0. [Dart Variable & Data Types (Number, String, Boolean, List & Map)](https://medium.com/smkdev/pengenalan-tipe-data-danvariabel-pada-dart-131bb58d3da2)
 1. [Dart Branching (if else)](https://www.youtube.com/watch?v=e9hYhWwo89k&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=2)
-2. Dart Looping & Unary Operator
-3. Dart Function, Optional Parameter, and Lambda Expression
-4. Flutter Container Widget
-5. Flutter Row & Column Widget
-6. Flutter Stateless vs Statefull Widget
-7. Flutter ListView & ListView Builder Widget
-8. Flutter MediaQuery
-9. Flutter TextField Widget
-10. Flutter Navigation Multi Page
-11. Flutter TabBar
+2. [Dart Looping & Unary Operator](https://www.youtube.com/watch?v=dhJuvzp-U68&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=3)
+3. [Dart Function, Optional Parameter, and Lambda Expression](https://www.youtube.com/watch?v=XCJqCwV0Mao&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=4)
+4. [Flutter Container Widget](https://www.youtube.com/watch?v=inlgWTc0Pb4&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=6)
+5. [Flutter Row & Column Widget](https://www.youtube.com/watch?v=QBvjj5PuzLQ&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=5)
+6. [Flutter Stateless vs Statefull Widget](https://www.youtube.com/watch?v=dNlWzMI6CgY&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=7)
+7. [Flutter ListView & ListView Builder Widget](https://www.youtube.com/watch?v=QSpSKTcR44s&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=9)
+8. [Flutter MediaQuery](https://www.youtube.com/watch?v=GPbUblY_mfc&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=22)
+9. [Flutter TextField Widget](https://www.youtube.com/watch?v=aHT7v_4UBtA&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=20)
+10. [Flutter Navigation Multi Page](https://www.youtube.com/watch?v=CCNnUesNJi4&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=17)
+11. [Flutter TabBar](https://www.youtube.com/watch?v=BF_NXbdZQ3w&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=28)
 12. Flutter Camera Guided & File Picker
 13. Create Simple Qr Code App - Read & Write Qr Code
 14. Flutter Shared Preferences

@@ -13,6 +13,8 @@ Learn Flutter from Zero to Hero 🤩.
 
 The repo contains progress of learning the **Flutter** 💙 Siskom Untan community .
 
+Read the [CONTRIBUTING.md](https://github.com/clubgamma/30Days-of-Flutter/blob/master/CONTRIBUTING.md) to start learning.
+
 
 0. Dart Variable & Data Types (Number, String, Boolean, List & Map)
 1. Dart Branching (if else)

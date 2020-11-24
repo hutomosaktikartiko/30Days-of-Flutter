@@ -15,8 +15,7 @@ The repo contains progress of learning the **Flutter** 💙 Siskom Untan communi
 
 Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutter/blob/master/CONTRIBUTING.md) to start learning.
 
-[dhsgfhdfs](https://medium.com/smkdev/pengenalan-tipe-data-danvariabel-pada-dart-131bb58d3da2)
-[0. Dart Variable & Data Types (Number, String, Boolean, List & Map)] (https://medium.com/smkdev/pengenalan-tipe-data-danvariabel-pada-dart-131bb58d3da2)
+0. [ Dart Variable & Data Types (Number, String, Boolean, List & Map) ] (https://medium.com/smkdev/pengenalan-tipe-data-danvariabel-pada-dart-131bb58d3da2)
 1. Dart Branching (if else)
 2. Dart Looping & Unary Operator
 3. Dart Function, Optional Parameter, and Lambda Expression

@@ -44,4 +44,16 @@ The repo contains progress of learning the **Flutter** 💙 Untan community .
 27. WallApp - Firebase Cloud Messaging (Notification)
 28. WallApp - Firebase Admob
 29. WallApp - Firebase Machine Learning Kit
-30. What Next ?
+30. What's Next ?
+
+
+## Let's Code Together
+
+<br>
+<div align="center">  
+<i>If you want to add any feature, feel free to open an issue</i><br><br>
+<br>
+<a href="https://github.com/hutomosaktikartiko/30Days-of-Flutter/issues/new"><img src="https://img.shields.io/badge/Query-Ask_Us_Anything-blue"/></a><br>
+<br>
+
+</div>

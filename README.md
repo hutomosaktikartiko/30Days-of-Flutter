@@ -14,25 +14,25 @@ Learn Flutter from Zero to Hero 🤩.
 The repo contains progress of learning the **Flutter** 💙 Siskom Untan community .
 
 
-0. Creating a New Flutter Project
-1. Dart Variable & Data Types (Number, String, Boolean, List & Map)
-2. Dart Branching (if else)
-3. Dart Looping & Unary Operator
-4. Dart Function, Optional Operator, and Lambda Expression
-5. Flutter Text Widget
-6. Flutter Row & Column Widget
-7. Flutter Container Widget
-8. Flutter Stateless vs Statefull Widget
-9. Flutter List & ListView Widget
+0. Dart Variable & Data Types (Number, String, Boolean, List & Map)
+1. Dart Branching (if else)
+2. Dart Looping & Unary Operator
+3. Dart Function, Optional Operator, and Lambda Expression
+4. Flutter Container Widget
+5. Flutter Row & Column Widget
+6. Flutter Stateless vs Statefull Widget
+7. Flutter ListView & ListView Builder Widget
+8. Flutter MediaQuery
+9. Flutter TextField Widget
 10. Flutter Navigation Multi Page
-11. Flutter TextField Widget
-12. Flutter MediaQuery
-13. Flutter TabBar
-14. Flutter Camera Guided & File Picker
-15. Create Simple Qr Code App - Read & Write Qr Code
-16.
-17.
-18.
+11. Flutter TabBar
+12. Flutter Camera Guided & File Picker
+13. Create Simple Qr Code App - Read & Write Qr Code
+14. Flutter Shared Preferences
+15. News App UI
+16. NewsApp - Fetch data from a Newsapi or
+17. NewsApp - News Detail with Web
+18. NewsApp - Shared Preferences (Create, Read and Delete News)
 19. Firebase Introduction & Configuration for Flutter
 20. Flutter & Firebase Auth Using Anonymous Account
 21. Flutter & Firebase Auth Using Phone Number

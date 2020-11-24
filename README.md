@@ -21,7 +21,7 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 3. [Dart Function, Optional Parameter, and Lambda Expression](https://www.youtube.com/watch?v=XCJqCwV0Mao&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=4)
 4. [Flutter Image Widget](https://www.youtube.com/watch?v=FMOXXLWEGss&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=14)
 5. [Flutter Row & Column Widget](https://www.youtube.com/watch?v=QBvjj5PuzLQ&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=5)
-6. [Flutter Stateless vs Statefull Widget](https://www.youtube.com/watch?v=dNlWzMI6CgY&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=7)
+6. [Flutter MVVM Architecture](https://www.youtube.com/watch?v=5ZwNx9GG3pc&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=54&t=49s)
 7. [Flutter ListView & ListView Builder Widget](https://www.youtube.com/watch?v=QSpSKTcR44s&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=9)
 8. [Flutter MediaQuery](https://www.youtube.com/watch?v=GPbUblY_mfc&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=22)
 9. [Flutter TextField Widget](https://www.youtube.com/watch?v=aHT7v_4UBtA&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=20)
@@ -30,11 +30,11 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 12. Flutter Camera Guided & File Picker
 13. Create Simple Qr Code App - Read & Write Qr Code
 14. [Flutter Shared Preferences & Double Question Mark Operator](https://www.youtube.com/watch?v=U9Mg-Ce1yv0)
-15. News App UI
-16. NewsApp - Fetch data from a Newsapi org
-17. NewsApp - News Detail with Webview
-18. NewsApp - Shared Preferences (Create, Read and Delete News)
-19. 
+15. [Flutter Google Fonts](https://www.youtube.com/watch?v=HgSptswmZiU&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=74)
+16. News App UI
+17. NewsApp - Fetch data from a Newsapi org
+18. NewsApp - News Detail with Webview
+19. NewsApp - Shared Preferences (Create, Read and Delete News)
 20. 
 21. [Flutter & Firebase Auth Using Anonymous Account](https://www.youtube.com/watch?v=N4JpBZXSGLk)
 22. Flutter & Firebase Auth Using Phone Number

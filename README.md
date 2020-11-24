@@ -28,8 +28,8 @@ The repo contains progress of learning the **Flutter** 💙 Untan community .
 11. Flutter TextField Widget
 12. Flutter MediaQuery
 13. Flutter TabBar
-14. Create Simple Qr Code App - Read & Write Qr Code
-15. 
+14. Flutter Camera Guided & File Picker
+15. Create Simple Qr Code App - Read & Write Qr Code
 16.
 17.
 18.

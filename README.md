@@ -30,8 +30,8 @@ The repo contains progress of learning the **Flutter** 💙 Siskom Untan communi
 13. Create Simple Qr Code App - Read & Write Qr Code
 14. Flutter Shared Preferences
 15. News App UI
-16. NewsApp - Fetch data from a Newsapi or
-17. NewsApp - News Detail with Web
+16. NewsApp - Fetch data from a Newsapi org
+17. NewsApp - News Detail with Webview
 18. NewsApp - Shared Preferences (Create, Read and Delete News)
 19. Firebase Introduction & Configuration for Flutter
 20. Flutter & Firebase Auth Using Anonymous Account

@@ -6,10 +6,6 @@ So why don't we create something awesome and contribute to Flutter community and
 
 Here are the simple steps for contributing to this repo
 
-  - **READ CODE OF CONDUCT**
-     
-     Read the [Code of Conduct](https://github.com/clubgamma/code-of-conduct) before starting contributing.
-
   - **Fork the repo**
     
     First of all fork the repo to your own GitHub account by clicking the **Fork** button on top-right corner. Still could not find 🙄,check the below image

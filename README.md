@@ -16,7 +16,7 @@ The repo contains progress of learning the **Flutter** 💙 Siskom Untan communi
 Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutter/blob/master/CONTRIBUTING.md) to start learning.
 
 0. [Dart Variable & Data Types (Number, String, Boolean, List & Map)](https://medium.com/smkdev/pengenalan-tipe-data-danvariabel-pada-dart-131bb58d3da2)
-1. Dart Branching (if else)
+1. [Dart Branching (if else)](https://www.youtube.com/watch?v=e9hYhWwo89k&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=2)
 2. Dart Looping & Unary Operator
 3. Dart Function, Optional Parameter, and Lambda Expression
 4. Flutter Container Widget

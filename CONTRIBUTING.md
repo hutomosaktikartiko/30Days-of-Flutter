@@ -2,8 +2,6 @@
 
 Flutter has given developers a super power to create innovative and creative UIs for Mobile and Desktop both 🦾😎. 
 
-So why don't we create something awesome and contribute to Flutter community and also show the power or height of feasibility for creating beautiful things🤩 and if you want to contribute then you are at the right place☑!!
-
 Here are the simple steps for contributing to this repo
 
   - **Fork the repo**

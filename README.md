@@ -17,7 +17,7 @@ The repo contains progress of learning the **Flutter** 💙 Siskom Untan communi
 0. Dart Variable & Data Types (Number, String, Boolean, List & Map)
 1. Dart Branching (if else)
 2. Dart Looping & Unary Operator
-3. Dart Function, Optional Operator, and Lambda Expression
+3. Dart Function, Optional Parameter, and Lambda Expression
 4. Flutter Container Widget
 5. Flutter Row & Column Widget
 6. Flutter Stateless vs Statefull Widget

@@ -35,14 +35,14 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 16. NewsApp - Fetch data from a Newsapi org
 17. NewsApp - News Detail with Webview
 18. NewsApp - Shared Preferences (Create, Read and Delete News)
-19. Firebase Introduction & Configuration for Flutter
-20. Flutter & Firebase Auth Using Anonymous Account
-21. Flutter & Firebase Auth Using Phone Number
-22. Wallpaper App UI
-23. WallApp - Firebase Configuration
-24. WallApp - Firebase Auth Using Email & Password
-25. WallApp - Firebase Cloud Messaging (NoSql & Realtime Database)
-26. WallApp - Firebase Storage
+19. 
+20. Firebase Introduction & Configuration for Flutter
+21. Flutter & Firebase Auth Using Anonymous Account
+22. Flutter & Firebase Auth Using Phone Number
+23. Wallpaper App UI
+24. WallApp - Firebase Configuration
+25. WallApp - Firebase Auth Using Email & Password
+26. WallApp - Firebase Storage (NoSql & Realtime Database)
 27. WallApp - Firebase Cloud Messaging (Notification)
 28. WallApp - Firebase Admob
 29. WallApp - Firebase Machine Learning Kit

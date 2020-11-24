@@ -19,7 +19,7 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 1. [Dart Branching (if else)](https://www.youtube.com/watch?v=e9hYhWwo89k&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=2)
 2. [Dart Looping & Unary Operator](https://www.youtube.com/watch?v=dhJuvzp-U68&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=3)
 3. [Dart Function, Optional Parameter, and Lambda Expression](https://www.youtube.com/watch?v=XCJqCwV0Mao&list=PLZQbl9Jhl-VDeCuNNp7C2SR1lFsIjQRQo&index=4)
-4. [Flutter Container Widget](https://www.youtube.com/watch?v=inlgWTc0Pb4&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=6)
+4. [Flutter Image Widget](https://www.youtube.com/watch?v=FMOXXLWEGss&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=14)
 5. [Flutter Row & Column Widget](https://www.youtube.com/watch?v=QBvjj5PuzLQ&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=5)
 6. [Flutter Stateless vs Statefull Widget](https://www.youtube.com/watch?v=dNlWzMI6CgY&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=7)
 7. [Flutter ListView & ListView Builder Widget](https://www.youtube.com/watch?v=QSpSKTcR44s&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=9)
@@ -29,7 +29,7 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 11. [Flutter TabBar](https://www.youtube.com/watch?v=BF_NXbdZQ3w&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=28)
 12. Flutter Camera Guided & File Picker
 13. Create Simple Qr Code App - Read & Write Qr Code
-14. Flutter Shared Preferences
+14. [Flutter Shared Preferences & Double Question Mark Operator](https://www.youtube.com/watch?v=U9Mg-Ce1yv0)
 15. News App UI
 16. NewsApp - Fetch data from a Newsapi org
 17. NewsApp - News Detail with Webview

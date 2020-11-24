@@ -11,7 +11,7 @@
 
 Learn Flutter from Zero to Hero 🤩.
 
-The repo contains progress of learning the **Flutter** 💙 Untan community .
+The repo contains progress of learning the **Flutter** 💙 Siskom Untan community .
 
 
 0. Creating a New Flutter Project

@@ -33,7 +33,7 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 15. [Flutter Google Fonts](https://www.youtube.com/watch?v=HgSptswmZiU&list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV&index=74)
 16. News App UI
 17. NewsApp - Fetch data from a Newsapi org
-18. NewsApp - News Detail with Webview
+18. NewsApp - News Detail Using Flutter Webview
 19. NewsApp - Shared Preferences (Create, Read and Delete News)
 20. [Flutter Grid View, ClipRReact & ClipPath, Hero Animation](https://daengweb.id/mengenal-widget-flutter-6-grid-view-cliprreact-clippath-hero-animation)
 21. [Flutter & Firebase Auth Using Anonymous Account](https://www.youtube.com/watch?v=N4JpBZXSGLk)

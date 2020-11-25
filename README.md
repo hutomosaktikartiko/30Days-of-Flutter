@@ -37,7 +37,7 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 19. NewsApp - Shared Preferences (Create, Read and Delete News)
 20. [Flutter Grid View, ClipRReact & ClipPath, Hero Animation](https://daengweb.id/mengenal-widget-flutter-6-grid-view-cliprreact-clippath-hero-animation)
 21. [Flutter & Firebase Auth Using Anonymous Account](https://www.youtube.com/watch?v=N4JpBZXSGLk)
-22. Flutter & Firebase Auth Using Phone Number
+22. [Flutter & Firebase Auth Using Phone Number](https://medium.com/@bayuaji_saputra/implementasi-firebase-phone-auth-pada-flutter-android-ios-43ea596e6544)
 23. Wallpaper App UI
 24. WallApp - Firebase Configuration
 25. WallApp - Firebase Auth Using Email & Password

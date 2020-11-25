@@ -39,12 +39,12 @@ Read the [CONTRIBUTING.md](https://github.com/hutomosaktikartiko/30Days-of-Flutt
 21. [Flutter & Firebase Auth Using Anonymous Account](https://www.youtube.com/watch?v=N4JpBZXSGLk)
 22. [Flutter & Firebase Auth Using Phone Number](https://medium.com/@bayuaji_saputra/implementasi-firebase-phone-auth-pada-flutter-android-ios-43ea596e6544)
 23. Wallpaper App UI
-24. WallApp - Firebase Configuration
-25. WallApp - Firebase Auth Using Email & Password
-26. WallApp - Firebase Storage (NoSql & Realtime Database)
-27. WallApp - Firebase Cloud Messaging (Notification)
-28. WallApp - Firebase Admob
-29. WallApp - Firebase Machine Learning Kit
+24. WallApp - Firebase Auth Using Google Sign-In
+25. WallApp - Upload (compress) & Fetch Image From Cloud Firestore
+26. WallApp - Fetching Labels From Image Using Firebase Machine Learning Kit 
+27. WallApp - Add Favorite Image Menu 
+28. WallApp - Sending & Receiving Notification With Firebase Cloud Messaging (FCM)
+29. WallApp - Firebase Admob 
 30. What's Next ?
 
 
